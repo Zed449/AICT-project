@@ -1,0 +1,13 @@
+Project: Patient Health Record Management System
+🔹 Description: A simple CLI-based system where users (doctors or patients) can store, retrieve, and analyze basic medical records (e.g., blood pressure, temperature, symptoms).
+🔹 Features:
+
+Add patient records (name, age, BP, temperature, diagnosis).
+
+View patient history.
+
+Search for a patient by name or ID.
+
+Save records in a file (basic file handling).
+
+Provide basic health analysis (e.g., flag high BP, fever alerts).
